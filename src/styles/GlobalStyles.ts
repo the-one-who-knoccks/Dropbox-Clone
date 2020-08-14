@@ -20,4 +20,4 @@ export default createGlobalStyle`
   --color-blue: #0061ff;
   --color-border: #bdc4c9;
   }
-`;
+`; 
