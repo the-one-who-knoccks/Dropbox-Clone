@@ -32,7 +32,7 @@ const MenuForm: React.FC = () => {
 
         <span className="terms">
           Esta página está sujeita à política de privacidade e aos Termos de
-          serviço.
+          serviço. 
         </span>
       </Form>
     </Container>
