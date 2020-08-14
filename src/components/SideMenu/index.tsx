@@ -31,7 +31,7 @@ const SideMenu: React.FC = ({ children }) => {
 
   const className = classes.join(' ').trim();
 
-  function toggleActiveMenu() {
+  function toggleActiveMenu() { 
     setIsActive(prev => !prev);
   }
 
