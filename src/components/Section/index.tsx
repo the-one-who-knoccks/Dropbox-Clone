@@ -7,7 +7,7 @@ interface Props {
   title: string;
   description: string;
 }
-
+ 
 const Section: React.FC<Props> = ({ variant, title, description }) => {
   const buttonVariant = Math.round(Math.random());
 
