@@ -106,7 +106,7 @@ export const Form = styled.form`
 
   > .terms {
     font-size: 12px;
-    opacity: 0.6;
+    opacity: 0.6; 
     margin-top: 4px;
   }
   
