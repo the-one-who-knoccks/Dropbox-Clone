@@ -10,7 +10,7 @@ import data from './data';
 function App() {
   return (
     <>
-      <Section
+      <Section 
         variant="blue"
         title={data[0].title}
         description={data[0].description}
