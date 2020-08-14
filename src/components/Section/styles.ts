@@ -6,7 +6,7 @@ export const Container = styled.div`
   --padding-top: 100px;
   --padding-bottom: 120px;
   --heading-font-size: 32px;
-  --content-width: 100%;
+  --content-width: 100%; 
 
   &.blue {
     --bg-color: var(--color-primary);
