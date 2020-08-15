@@ -7,9 +7,10 @@
 Clone do Dropbox criado com React e TypeScript. Aplicação web responsiva criada com o conceito mobile first
 
 <h1 align="center">
-  <img src="https://ik.imagekit.io/hld13bjzb1/Peek_2020-08-15_18-30_LYRZI5sFm.gif">
+    <div>
+  <img src="https://ik.imagekit.io/hld13bjzb1/Peek_2020-08-15_18-30_LYRZI5sFm.gif" alt="demo" height="425">
+</div>
 <h1>
-
 
 
 ## Veja como testar:
