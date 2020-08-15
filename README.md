@@ -1,14 +1,7 @@
+<h1 align="center">Dropbox Clone</h1>
+
 <p align="center">
    <img src="https://img.shields.io/badge/license-MIT-Black?labelColor=7159c1&style=flat" alt="license" /> <img src="https://img.shields.io/badge/typescript-93.7-Black?labelColor=7159c1&style=flat" alt="typescript" /> <img src="https://img.shields.io/badge/Made by-Rocketseat-Black?labelColor=7159c1&style=flat" alt="Made by" />
-
-
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Mobile">Mobile</a>
-</p> 
-
 
 
 Clone do Dropbox criado com React e TypeScript. Aplicação web responsiva criada com o conceito mobile first
