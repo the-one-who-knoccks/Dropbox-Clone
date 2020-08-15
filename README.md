@@ -1,14 +1,13 @@
   
 <p align="center">
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">  <img alt="License" src="https://img.shields.io/badge/TypeScript-Blue?style=flat">    <img src="https://img.shields.io/badge/React-Orange?style=flat" alt="React" /> <img src="https://img.shields.io/badge/React Native-black?style=flat" alt="React Native" /> 
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">  <img alt="License" src="https://img.shields.io/badge/TypeScript-Blue?style=flat">    <img src="https://img.shields.io/badge/React-Orange?style=flat" alt="React" /> 
 
 
 
 Clone do Dropbox criado com React e TypeScript. Aplicação web responsiva criada com o conceito mobile first
 
-<h1 align="center">
   <img src="https://ik.imagekit.io/hld13bjzb1/Peek_2020-08-15_18-30_LYRZI5sFm.gif" alt="demo" height="425">
-<h1>
+
 
 
 ## Veja como testar:
