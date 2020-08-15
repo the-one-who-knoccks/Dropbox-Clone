@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://img.shields.io/badge/license-MIT-Black?labelColor=7159c1&style=flat" alt="license" />  <img src="https://img.shields.io/badge/TypeScript-93.7-Black?labelColor=7159c1&style=flat" alt="TypeScript" />
+   <img src="https://img.shields.io/badge/license-MIT-Black?labelColor=7159c1&style=flat" alt="license" /> <img src="https://img.shields.io/badge/typescript-93.7-Black?labelColor=7159c1&style=flat" alt="typescript" /> <img src="https://img.shields.io/badge/Made by-Rocketseat-Black?labelColor=7159c1&style=flat" alt="Made by" />
 
 
 <p align="center">
