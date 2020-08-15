@@ -3,7 +3,7 @@
   
  <img src="https://img.shields.io/badge/license-MIT-Black?labelColor=7159c1&style=flat" alt="license" /> <img alt="License" src="https://img.shields.io/badge/TypeScript-Blue?style=flat">    <img src="https://img.shields.io/badge/React-Orange?style=flat" alt="React" /> 
 
-
+</p>
 
 Clone do Dropbox criado com React e TypeScript. Aplicação web responsiva criada com o conceito mobile first
 
